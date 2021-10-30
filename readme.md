@@ -3,4 +3,4 @@
 
 <h3>THIS WEBSITE IS HARDCODED, NO API</h3>
 <img src='images/screenshot1.jpg'>
-<img src='images/screenshot1.jpg'>
+<img src='images/screenshot2.jpg'>
